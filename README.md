@@ -8,7 +8,7 @@ Saya adalah seorang mahasiswa dengan minat di bidang teknologi informasi. Saat i
 - 🖥️ Front-end: HTML, CSS
 
 ## What I'm Learning
-Saat ini saya sedang mendalami Hybrid Cloud & Red Hat, dan tertarik untuk belajar lebih banyak tentang [minat masa depan].
+Saat ini saya sedang mengikuti program MSIB IBM: Hybrid Cloud & Red Hat at Infinite Learning.
 
 ## Fun Facts
 - 🎮 Saya penggemar game Monster Hunter.
