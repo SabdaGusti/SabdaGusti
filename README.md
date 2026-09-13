@@ -10,6 +10,3 @@ Saya adalah seorang mahasiswa dengan minat di bidang teknologi informasi. Saat i
 ## What I'm Learning
 Saat ini saya sedang mengikuti program MSIB IBM: Hybrid Cloud & Red Hat at Infinite Learning.
 
-## Fun Facts
-- 🎮 Saya penggemar game Monster Hunter.
-- 📚 Saya suka membaca buku, terutama tentang fantasi.
